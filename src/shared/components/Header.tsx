@@ -7,7 +7,7 @@ function Header() {
     const location = useLocation();
 
     const navLinks = [
-        { href: "/", label: "Home" },
+        { href: "/", label: "Homo" },
         { href: "/about", label: "About" },
         { href: "/features", label: "Features" },
         { href: "/contact", label: "Contact" },
